@@ -1,2 +1,0 @@
-oda_instance: 
-https://oda-6d0e69ba86924888b0618842fddb1995-da71726f.data.digitalassistant.oci.oraclecloud.com/botsui/
